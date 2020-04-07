@@ -66,7 +66,7 @@ plt.legend()
 
 plt.show()
 
-seed_text = "" //Enter your desired string here
+seed_text = "" #Enter your desired string here
 next_words = 100
   
 for _ in range(next_words):
